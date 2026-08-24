@@ -1,0 +1,6 @@
+{
+  "name": "منصة رحلات العمرة",
+  "description": "تطبيق متكامل لتنظيم وحجز رحلات العمرة، يشمل عرض تفاصيل الفندق والغرف والباص، التسجيل عبر الروابط وQR، ولوحة تحكم المنظم لإدارة الحجوزات والمعتمرين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
